@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceDefinition name="NectarCloud" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition" schemaVersion="2015-04.2.6">
+  <WorkerRole name="NectarWorkerRole" vmsize="Standard_A2m_v2">
+    <!-- Large / Standard_A2m_v2 -->
+    <!-- Standard_A2m_v2-->
+    <LocalResources>
+      <LocalStorage name="StartupLocalStorage" sizeInMB="20"/>
+      <LocalStorage name="LogsPath" cleanOnRoleRecycle="false" sizeInMB="1024" />
+      <LocalStorage name="Nectar" cleanOnRoleRecycle="true" sizeInMB="10000" />
+    </LocalResources>    
+    <Startup>
+      <Task commandLine="App_Data\startup.cmd" executionContext="elevated" taskType="simple">
+        <Environment>
+          <Variable name="PathToStartupStorage">
+            <RoleInstanceValue xpath="/RoleEnvironment/CurrentInstance/LocalResources/LocalResource[@name='StartupLocalStorage']/@path" />
+          </Variable>
+          <Variable name="LogFileName" value="Startup.log" />
+          <Variable name="LogFileDirectory">
+            <RoleInstanceValue xpath="/RoleEnvironment/CurrentInstance/LocalResources/LocalResource[@name='LogsPath']/@path" />
+          </Variable>
+          <Variable name="InstanceId">
+            <RoleInstanceValue xpath="/RoleEnvironment/CurrentInstance/@id" />
+          </Variable>
+          <Variable name="RoleName">
+            <RoleInstanceValue xpath="/RoleEnvironment/CurrentInstance/@roleName" />
+          </Variable>
+          <Variable name="IsEmulated">
+            <RoleInstanceValue xpath="/RoleEnvironment/Deployment/@emulated" />
+          </Variable>
+        </Environment>
+      </Task>
+    </Startup>
+    <ConfigurationSettings>
+      <Setting name="KeepInstancesAliveWhenDone" />
+      <Setting name="numOfInstances" />
+      <Setting name="ConnectionString" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" />
+      <Setting name="APPINSIGHTS_INSTRUMENTATIONKEY" />
+    </ConfigurationSettings>
+    <Imports>
+      <Import moduleName="RemoteAccess" />
+      <Import moduleName="RemoteForwarder" />
+    </Imports>
+  </WorkerRole>
+</ServiceDefinition>

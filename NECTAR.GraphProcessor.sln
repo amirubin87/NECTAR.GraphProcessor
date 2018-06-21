@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NECTAR", "NECTAR\NECTAR.csproj", "{2302F028-2218-45EF-AE8F-CFCA62A32526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{3DC29798-B585-4BFA-9ABB-9160387E4586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Convertors\Utils.csproj", "{AF813D09-84C5-4499-AE4E-F1A2375BC3A0}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "NectarCloud", "NectarCloud\NectarCloud.ccproj", "{1321FE97-66E9-439F-A7E3-7DA92B63E9D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NectarWorkerRole", "NectarWorkerRole\NectarWorkerRole.csproj", "{12508450-039D-4AE6-BD3B-51A306F2B2AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Testings\Tests.csproj", "{828D3DC1-ABD1-4485-94E6-264BC792C9F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FE33876A-289F-4769-B754-6B4C35BAA256}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2302F028-2218-45EF-AE8F-CFCA62A32526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2302F028-2218-45EF-AE8F-CFCA62A32526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2302F028-2218-45EF-AE8F-CFCA62A32526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2302F028-2218-45EF-AE8F-CFCA62A32526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC29798-B585-4BFA-9ABB-9160387E4586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC29798-B585-4BFA-9ABB-9160387E4586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC29798-B585-4BFA-9ABB-9160387E4586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC29798-B585-4BFA-9ABB-9160387E4586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF813D09-84C5-4499-AE4E-F1A2375BC3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF813D09-84C5-4499-AE4E-F1A2375BC3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF813D09-84C5-4499-AE4E-F1A2375BC3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF813D09-84C5-4499-AE4E-F1A2375BC3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1321FE97-66E9-439F-A7E3-7DA92B63E9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1321FE97-66E9-439F-A7E3-7DA92B63E9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1321FE97-66E9-439F-A7E3-7DA92B63E9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1321FE97-66E9-439F-A7E3-7DA92B63E9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12508450-039D-4AE6-BD3B-51A306F2B2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12508450-039D-4AE6-BD3B-51A306F2B2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12508450-039D-4AE6-BD3B-51A306F2B2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12508450-039D-4AE6-BD3B-51A306F2B2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828D3DC1-ABD1-4485-94E6-264BC792C9F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828D3DC1-ABD1-4485-94E6-264BC792C9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828D3DC1-ABD1-4485-94E6-264BC792C9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828D3DC1-ABD1-4485-94E6-264BC792C9F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

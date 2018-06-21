@@ -1,0 +1,4159 @@
+<RunConfig Name="0">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="1">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="2">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="3">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="4">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="5">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="6">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="7">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="8">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="9">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="10">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="11">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="12">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="13">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="14">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="15">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="16">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="17">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="18">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="19">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="20">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="21">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="22">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="23">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="24">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="25">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="26">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="27">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="28">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="29">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="30">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="31">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="32">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="33">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="34">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="35">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="10"
+  NumOfMemberships="3"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="36">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="37">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="38">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="39">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="40">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="41">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="42">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="43">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="44">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="45">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="46">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="47">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="48">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="49">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="50">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="51">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="52">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="53">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="2"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="54">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="55">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="56">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="57">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="58">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="59">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="60">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="61">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="62">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="63">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="64">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="65">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="66">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="67">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="68">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="69">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="70">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="71">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="4"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="72">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="73">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="74">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="75">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="76">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="77">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="78">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="79">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="80">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="50"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="81">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="82">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="83">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="84">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="85">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="86">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="87">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="88">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="89">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="20"
+  NumOfMemberships="6"
+  MaxDegree="300"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="90">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="91">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="92">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="93">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="94">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="95">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="96">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="97">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="98">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="99">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="100">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="101">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="102">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="103">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="104">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="105">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="106">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="107">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="108">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="109">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="110">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="111">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="112">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="113">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="114">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="115">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="116">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="2"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="117">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="118">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="119">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="120">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="121">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="122">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="123">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="124">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="125">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="126">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="127">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="128">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="129">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="130">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="131">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="132">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="133">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="134">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="135">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="136">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="137">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="138">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="139">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="140">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="141">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="142">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="143">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="4"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="144">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="145">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="146">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="147">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="148">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="149">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="150">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="151">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="152">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="153">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="154">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="155">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="156">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="157">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="158">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="159">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="160">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="161">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="162">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="163">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="164">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="165">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="166">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="167">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="168">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="169">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="170">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="6"
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="171">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="172">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="173">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="174">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="175">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="176">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="177">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="178">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="179">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="100"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="180">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="181">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="182">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="183">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="184">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="185">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="186">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="187">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="188">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="200"
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="189">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="190">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="191">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.1"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="192">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="193">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="194">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.2"
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="195">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="1000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="196">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="2500" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+<RunConfig Name="197">
+<Lfr
+  NumberOfNodes="10000"
+  AvgDegree="40 "
+  NumOfMemberships="8 "
+  MaxDegree="500 "
+  DegreeSeqExpo="2"
+  MixingParam="0.3 "
+  CommSizeDistExp="1 "
+  MinCommSize="1"
+  MaxCommSize="1"
+  NumOfOverlappingNodes="5000" />
+<Nectar
+  Betas="1.01;1.05;1.09;1.1;1.2;1.3;1.4" 
+  Alpha="0.8"
+  StartMergeAt="4"
+  MaxNumberOfIterations="20"
+  InitMode="0"
+  PrecentageOfStableNodes="95" />
+</RunConfig>
+
+

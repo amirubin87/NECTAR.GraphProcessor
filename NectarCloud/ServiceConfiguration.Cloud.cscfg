@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="NectarCloud" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="4" osVersion="*" schemaVersion="2015-04.2.6">
+  <Role name="NectarWorkerRole">
+    <!-- MUST MATCH Setting name="numOfInstances" below! -->
+    <!--TODO : Change as you like.-->
+    <Instances count="10" />
+    <ConfigurationSettings>
+      <!-- TODO: MUST MATCH Instances count above!-->
+      <Setting name="numOfInstances" value="10" />
+      <!--TODO:  Put connection string here -->
+      <Setting name="ConnectionString" value="TODO" />
+      <!--TODO:  Put connection string here -->
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="TODO" />
+      <!--TODO:  Set as you like -->
+      <Setting name="KeepInstancesAliveWhenDone" value="false" />
+      <!--No need to change --> 
+      <Setting name="APPINSIGHTS_INSTRUMENTATIONKEY" value="986e3eb6-ca6e-44cc-b70d-36098ca79f1f" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="t-amirub" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="MIIBnQYJKoZIhvcNAQcDoIIBjjCCAYoCAQAxggFOMIIBSgIBADAyMB4xHDAaBgNVBAMME1dpbmRvd3MgQXp1cmUgVG9vbHMCEBuFMcZtc5aJSjDUywgnzlEwDQYJKoZIhvcNAQEBBQAEggEA4SmDNvQ/Dk4p3gxHHq3xKOk1ECx0VDPtCrpX9mPY5a85zzbUQkrca9esZQKOyKVoTtG6I+kyCqeYaHlEui7FQ6dMyDSpUmsMGnr9WHaQZxUeeacaqNWjDhSrvQNIoZrdy5D0hGklRgRIE5DejAsQBROC7BNytIhKVezGmZZ4Uu3lOXyB44yhm9cKneWj0RHQIHhySBsyPaectBaHoT7eJ4ORu41CxEKk2lTl1jYgy+hlOEEdDcX6iM2u7spHpODsA6oNBc9GwmaQbJ0dcEVAXlOvO+hL0CvMrrF/EsHjds39A7GUkBKs4X91mGz0HG26wIyhCVDaCBfn4wLe9nWoZjAzBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECJpG3HJs24uNgBBsNgjkiVqC/TZXIZNId134" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="2018-11-28T23:59:59.0000000+02:00" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteForwarder.Enabled" value="true" />
+    </ConfigurationSettings>
+    <Certificates>
+      <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="C9644448D785BF3EE0810AECCF6978E2DECC19EA" thumbprintAlgorithm="sha1" />
+    </Certificates>
+  </Role>
+</ServiceConfiguration>
